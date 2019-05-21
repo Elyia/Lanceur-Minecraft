@@ -7,8 +7,9 @@ pour les bugs vennez sur https://discord.gg/6SQDeYB.
 
  - [Installons Eclipse & Java](#installation-eclipse-java)
 
-## Installons Eclipse & Java
+## Installons Eclipse & Java JDK
 
-**Liens utile** [L'art de faire des commits atomiques](http://adopteungit.fr/methodologie/2017/04/26/commits-atomiques-la-bonne-approche.html)
-Un [Installons Eclipse & Java](#installation-eclipse-java)
+**Liens utile** : 
+- [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [Eclipse](https://www.eclipse.org/downloads/)
 
