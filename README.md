@@ -6,6 +6,7 @@ pour les bugs vennez sur https://discord.gg/6SQDeYB.
 ## Sommaire
 
  - [Liens utile pour installer Eclipse & Java](#installation-eclipse-java)
+ - [Vidéo pour installer bootstrap & le launcher sur Eclipse](#installation-bootstrap-launcher)
 
 ## Liens utile pour installer Eclipse & Java
 
