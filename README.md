@@ -6,11 +6,9 @@ pour les bugs vennez sur https://discord.gg/6SQDeYB.
 ## Sommaire
 
  - [Installons Eclipse & Java](#installation-eclipse-java)
- - [Comment fonctionne GIT](#comment-fonctionne-git)
- - [Sécurité](#sécurité)
 
-## Qu'est-ce que c'est, à quoi ça sert ?
+## Installons Eclipse & Java
 
-**TEST 1** tetbsdhsdbdhsdsdsds
+**Liens utile** [L'art de faire des commits atomiques](http://adopteungit.fr/methodologie/2017/04/26/commits-atomiques-la-bonne-approche.html)
 Un [Installons Eclipse & Java](#installation-eclipse-java)
 
